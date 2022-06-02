@@ -21,7 +21,7 @@
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/[https://www.instagram.com/harshadkachi_0756](https://instagram.com/khadse_prajakta?igshid=YmMyMTA2M2Y=))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/[https://www.instagram.com/khadse_prajakta](https://instagram.com/khadse_prajakta?igshid=YmMyMTA2M2Y=))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/prajakta-khadse)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Prajakta_Khadse) 
 
