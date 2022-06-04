@@ -33,6 +33,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktakhadse&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<code>
-<a target="_blank" rel="noopener noreferrer" ><img align="center" height="70" alt="Thanks" width="100%" src="style="max-width: 100%;"></a>
-</code>
+
