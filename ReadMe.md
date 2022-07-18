@@ -12,7 +12,7 @@
     ⚡ I'm a passionate software developer
     👀 I’m interested in problem solving and data analytics and manipulation
     😂 I’m also having a great sense of humour with additional touch of memeing..
-    😎 I love Cricket and Binge Watching the movies for sometimes
+    😎 I love Dancing and Playing sports ,etc.
     📫 How to reach me -> drop me a mail at prajaktakhadse00@gmail.com
     ❤️ You can ping me at LinkedIn
     
